@@ -1,3 +1,20 @@
+﻿/*
+Ufa merupakan mahasiswa semester 1 informatika, ia mengambil mata kuliah wajib 
+sistem digital. Pada mata kuliah tersebut diajarkan bilangan biner. Ufa diberi 
+tugas untuk mencari nilai dari 2^N, namun karena jawaban bisa terlalu besar tugas 
+diringankan menjadi mencari nilai digit terakhir dari 2^N. Bantulah Ufa 
+mengerjakan tugas tersebut dengan membuat program yang sesuai.
+
+Input Format
+Satu baris berisi N
+
+Constraints
+-10^18 ≤ N ≤ 10^18
+
+Output Format
+Satu baris berisi digit terakhir 2^N
+*/
+
 #include <stdio.h>
 #include <math.h>
 
